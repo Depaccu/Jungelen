@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jungelen
+- 👋 Hi, I’m @Depaccu
 - 👀 I’m interested in DataEngineering, DataScience, Cloud technologies.
 - 🌱 I’m currently learning new stuff
 - 💞️ I’m looking to collaborate on cool stuff
